@@ -1,0 +1,23 @@
+  h3
+  {
+    font-size: 25px !important;
+  }
+
+  .btn-success:hover 
+  {
+    background-color:lime;
+  }
+
+
+  /* - Depois da function setup no main.js - Adicionar animações 
+  ao canvas: animation-name, animation-duration e 
+  animation-interation-count */
+
+    /* - Depois da function setup no main.js - Definir a animação
+  de example para alterar a cor de sobra da tela. Chamar o 
+  @keyframes example
+
+
+
+
+
